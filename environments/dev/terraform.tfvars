@@ -5,7 +5,7 @@ bucket_name   = "dev-bucket"
 acl          = "private"
 
 function_name = "dev-lambda"
-role_arn      = "arn:aws:iam::123456789012:role/lambda-role"
+role_arn      = "arn:aws:iam::445567090023:role/lambda-role"
 handler       = "index.handler"
 runtime       = "python3.8"
 filename      = "lambda.zip"
